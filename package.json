@@ -13,6 +13,6 @@
     "url": "git+https://github.com/IFRN-SC/exemplo-node-package.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@isaacmsl"
+    "registry": "https://npm.pkg.github.com/@IFRN-SC"
   }
 }
