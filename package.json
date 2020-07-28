@@ -7,5 +7,12 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IFRN-SC/exemplo-node-package.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@isaacmsl"
   }
 }
