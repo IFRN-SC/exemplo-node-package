@@ -15,7 +15,7 @@ Node.js (Javascript)
 
 ```js
 const enp = require('exemplo-node-package')
-const ifrnScRepositorios = enp.getIfrnScRepositorios()
 
-console.log(ifrnScRepositorios)
+// espere a promise finalizar depois mostre no console o resultado da função
+enp.getIfrnScRepositorios().then(console.log)
 ```
