@@ -1,0 +1,11 @@
+{
+  "name": "exemplo-node-package",
+  "version": "0.1.0",
+  "description": "Exemplo de utilizaçao de package no Github",
+  "main": "index.js",
+  "author": "isaacmsl",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
